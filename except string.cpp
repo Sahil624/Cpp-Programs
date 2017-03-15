@@ -21,6 +21,6 @@ int main(){
 	}
 	
 	catch(const char *err){
-		cout<<"There was an error nigga. Number is "<<err;
+		cout<<"There was an error NIGGA. Number is "<<err;
 	}
 }
